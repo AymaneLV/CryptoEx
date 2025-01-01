@@ -90,8 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE]((https://www.
 
 ## Support & Contact
 If you have any issues or need support, please contact us at:
-- Email: mail@example.com
-- Phone: +Number
+- Email: aymanelaffigh@gmail.com
   
 Or visit our [Support Page]((https://www.instagram.com/aymanelaffigh)).
 
